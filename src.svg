@@ -1,0 +1,34 @@
+<svg
+  version='1.1'
+  xmlns='http://www.w3.org/2000/svg'
+  viewBox='0 0 512 384'
+  width='512'
+  height='384'>
+  <defs>
+    <style>
+      text {
+        font-family: 'SF UI Display', -apple-system,sans-serif;
+        font-size: 40px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: .2em;
+      }
+    </style>
+  </defs>
+  <rect width='512' height='384' fill='white' />
+    <rect
+      x='32'
+      y='128'
+      width='224'
+      height='128'
+      fill='black' />
+    <text x='144' y='206'
+      text-anchor='middle'
+      fill='white'>
+    Hello
+  </text>
+    <text x='368' y='206'
+      text-anchor='middle'>
+    Color
+  </text>
+</svg>
